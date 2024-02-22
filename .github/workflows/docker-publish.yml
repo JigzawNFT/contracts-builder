@@ -7,7 +7,7 @@ on:
 
 env:
     REGISTRY: ghcr.io
-    IMAGE_NAME: warmosaic/contracts-builder
+    IMAGE_NAME: jigzawnft/contracts-builder
 
 jobs:
     container:

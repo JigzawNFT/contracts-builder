@@ -9,7 +9,7 @@ This sets up:
 * Solidity v0.8.24
 * [Bun](https://bun.sh)
 
-The latest image is always available at: https://ghcr.io/JigzawNFT/contracts-builder:latest
+The latest image is always available at: https://ghcr.io/jigzawnft/contracts-builder:latest
 
 ## Development
 
