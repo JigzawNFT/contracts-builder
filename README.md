@@ -1,15 +1,15 @@
 # contracts-builder
 
-This Docker image contains the base necessary to run CI builds for the WarMosaic [contracts](https://github.com/warmosaic/contracts) repo. 
+This Docker image contains the base necessary to run CI builds for the JigsawNFT [contracts](https://github.com/JigzawNFT/contracts) repo. 
 
 This sets up:
 
-* Node.js
-* PNPM
+* Node.js 20
 * Foundry
-* Solidity v0.8.21
+* Solidity v0.8.24
+* [Bun](https://bun.sh)
 
-The latest image is always available at: https://ghcr.io/warmosaic/contracts-builder:latest
+The latest image is always available at: https://ghcr.io/JigzawNFT/contracts-builder:latest
 
 ## Development
 
